@@ -1,0 +1,263 @@
+{
+    "user1": {
+        "password": "miClave123",
+        "email": "usuario1@example.com",
+        "stats": {
+            "letras": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0
+            },
+            "lexireto": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0,
+                "heptacracks": 0
+            }
+        }
+    },
+    "user2": {
+        "password": "otraClave456",
+        "stats": {
+            "letras": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0
+            },
+            "lexireto": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0,
+                "heptacracks": 0
+            }
+        }
+    },
+    "USER1": {
+        "password": "USER1",
+        "stats": {
+            "letras": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0
+            },
+            "lexireto": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0,
+                "heptacracks": 0
+            }
+        }
+    },
+    "User1": {
+        "password": "asdfgdsgsd",
+        "stats": {
+            "letras": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0
+            },
+            "lexireto": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0,
+                "heptacracks": 0
+            }
+        }
+    },
+    "zeru": {
+        "password": "1234",
+        "stats": {
+            "letras": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0
+            },
+            "lexireto": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0,
+                "heptacracks": 0
+            }
+        }
+    },
+    "zeru1": {
+        "password": "1234",
+        "stats": {
+            "letras": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0
+            },
+            "lexireto": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0,
+                "heptacracks": 0
+            }
+        }
+    },
+    "test": {
+        "password": "test",
+        "stats": {
+            "letras": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0
+            },
+            "lexireto": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0,
+                "heptacracks": 0
+            }
+        }
+    },
+    "test2": {
+        "password": "test",
+        "stats": {
+            "letras": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0
+            },
+            "lexireto": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0,
+                "heptacracks": 0
+            }
+        }
+    },
+    "test3": {
+        "password": "test3",
+        "stats": {
+            "letras": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0
+            },
+            "lexireto": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0,
+                "heptacracks": 0
+            }
+        }
+    },
+    "test6": {
+        "password": "test",
+        "stats": {
+            "letras": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0
+            },
+            "lexireto": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0,
+                "heptacracks": 0
+            }
+        }
+    },
+    "test4": {
+        "password": "test4",
+        "stats": {
+            "letras": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0
+            },
+            "lexireto": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0,
+                "heptacracks": 0
+            }
+        }
+    },
+    "elpepe": {
+        "password": "hola",
+        "stats": {
+            "letras": {
+                "palabras_acertadas": 61,
+                "victorias": 9,
+                "tiempo_jugado": 461,
+                "tiempo_promedio_victoria": 30.555555555555557,
+                "total_tiempo_victorias": 275
+            },
+            "lexireto": {
+                "palabras_acertadas": 105,
+                "victorias": 7,
+                "tiempo_jugado": 536,
+                "tiempo_promedio_victoria": 94.14285714285714,
+                "total_tiempo_victorias": 659,
+                "heptacracks": 11
+            }
+        }
+    },
+    "filippi": {
+        "password": "1234",
+        "stats": {
+            "letras": {
+                "palabras_acertadas": 5,
+                "victorias": 1,
+                "tiempo_jugado": 87,
+                "tiempo_promedio_victoria": 87.0,
+                "total_tiempo_victorias": 87
+            },
+            "lexireto": {
+                "palabras_acertadas": 0,
+                "victorias": 0,
+                "tiempo_jugado": 0,
+                "tiempo_promedio_victoria": 0,
+                "total_tiempo_victorias": 0,
+                "heptacracks": 0
+            }
+        }
+    }
+}

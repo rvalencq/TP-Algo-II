@@ -1,0 +1,88 @@
+{
+    "gameType": "lexireto",
+    "letras": [
+        "A",
+        "C",
+        "E",
+        "L",
+        "N",
+        "R"
+    ],
+    "letraCentral": "U",
+    "palabrasObjetivo": [
+        "ULCERA",
+        "RURAL",
+        "LLANURA",
+        "NUCLEAR",
+        "LAURA",
+        "ANULAR",
+        "AUNAR",
+        "AURA",
+        "NEURAL",
+        "URNA",
+        "NUNCA",
+        "ENCUERAR",
+        "NUERA",
+        "NUECERA",
+        "LAUREL"
+    ],
+    "palabrasInicial": {
+        "N": [
+            "NUCLEAR",
+            "NUECERA",
+            "NEURAL",
+            "NUERA",
+            "NUNCA"
+        ],
+        "E": [
+            "ENCUERAR"
+        ],
+        "A": [
+            "AURA",
+            "AUNAR",
+            "ANULAR"
+        ],
+        "U": [
+            "URNA",
+            "ULCERA"
+        ],
+        "L": [
+            "LAURA",
+            "LAUREL",
+            "LLANURA"
+        ],
+        "R": [
+            "RURAL"
+        ]
+    },
+    "cantidadPalabrasEncontradas": {
+        "N": 4,
+        "E": 1,
+        "A": 3,
+        "U": 2,
+        "L": 3,
+        "R": 1
+    },
+    "palabrasEncontradas": [
+        "NUCLEAR",
+        "NUECERA",
+        "URNA",
+        "ULCERA",
+        "AURA",
+        "LAURA",
+        "LAUREL",
+        "LLANURA",
+        "RURAL",
+        "ANULAR",
+        "ENCUERAR",
+        "NEURAL",
+        "NUERA",
+        "AUNAR"
+    ],
+    "palabrasHeptacrack": [
+        "NUCLEAR"
+    ],
+    "heptacrackEncontrados": 1,
+    "tiempo": 135,
+    "ultimo_tiempo_guardado": 132
+}

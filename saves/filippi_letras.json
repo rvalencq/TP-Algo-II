@@ -1,0 +1,84 @@
+{
+    "gameType": "letras",
+    "matriz": [
+        [
+            "Z",
+            "A",
+            "Z",
+            "N",
+            "G",
+            "N"
+        ],
+        [
+            "Q",
+            "R",
+            "L",
+            "P",
+            "A",
+            "A"
+        ],
+        [
+            "S",
+            "T",
+            "A",
+            "O",
+            "C",
+            "M"
+        ],
+        [
+            "A",
+            "O",
+            "U",
+            "S",
+            "S",
+            "E"
+        ],
+        [
+            "C",
+            "R",
+            "O",
+            "O",
+            "O",
+            "I"
+        ],
+        [
+            "L",
+            "W",
+            "D",
+            "R",
+            "U",
+            "J"
+        ]
+    ],
+    "palabrasSeleccionadas": [
+        "ALZAR",
+        "MANGA",
+        "CASTOR",
+        "OSCO",
+        "SORDO"
+    ],
+    "palabrasLongitud": {
+        "6": [
+            "CASTOR"
+        ],
+        "5": [
+            "ALZAR",
+            "MANGA",
+            "SORDO"
+        ],
+        "4": [
+            "OSCO"
+        ]
+    },
+    "palabrasEncontradas": [
+        "ALZAR",
+        "MANGA"
+    ],
+    "palabrasPorLongitud": {
+        "6": 0,
+        "5": 2,
+        "4": 0
+    },
+    "tiempo": 32,
+    "ultimo_tiempo_guardado": 28
+}
