@@ -1,0 +1,76 @@
+{
+    "gameType": "lexireto",
+    "letras": [
+        "A",
+        "F",
+        "I",
+        "N",
+        "R",
+        "T"
+    ],
+    "letraCentral": "O",
+    "palabrasObjetivo": [
+        "INFARTO",
+        "RATON",
+        "TANTO",
+        "TRONAR",
+        "RINON",
+        "TROTAR",
+        "FROTAR",
+        "ORINAR",
+        "NOTAR",
+        "TRONO",
+        "OTRO",
+        "TONTO",
+        "ORFANATO",
+        "TIRANO",
+        "NINO"
+    ],
+    "palabrasInicial": {
+        "I": [
+            "INFARTO"
+        ],
+        "R": [
+            "RATON",
+            "RINON"
+        ],
+        "T": [
+            "TANTO",
+            "TRONAR",
+            "TROTAR",
+            "TRONO",
+            "TONTO",
+            "TIRANO"
+        ],
+        "F": [
+            "FROTAR"
+        ],
+        "O": [
+            "ORINAR",
+            "OTRO",
+            "ORFANATO"
+        ],
+        "N": [
+            "NOTAR",
+            "NINO"
+        ]
+    },
+    "cantidadPalabrasEncontradas": {
+        "I": 1,
+        "R": 1,
+        "T": 0,
+        "F": 0,
+        "O": 0,
+        "N": 0
+    },
+    "palabrasEncontradas": [
+        "INFARTO",
+        "RATON"
+    ],
+    "palabrasHeptacrack": [
+        "INFARTO"
+    ],
+    "heptacrackEncontrados": 1,
+    "tiempo": 22,
+    "ultimo_tiempo_guardado": 16
+}

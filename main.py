@@ -544,7 +544,7 @@ def rules():
         "seleccionando casillas contiguas en todas las",
         "direcciones, no es posible el salto en diagonal. ",
         "Puedes utilizar cada letra tantas veces como quieras,",
-        "pero no en una misma palabra."
+        "pero no en una misma palabra.",
         "LEXIRETO:",
         "Forma palabras de al menos 3 letras. Puedes repetir las letras,",
         "pero siempre incluyendo la letra central.",

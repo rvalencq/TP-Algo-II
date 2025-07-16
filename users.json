@@ -251,12 +251,12 @@
                 "total_tiempo_victorias": 87
             },
             "lexireto": {
-                "palabras_acertadas": 0,
+                "palabras_acertadas": 2,
                 "victorias": 0,
-                "tiempo_jugado": 0,
+                "tiempo_jugado": 22,
                 "tiempo_promedio_victoria": 0,
                 "total_tiempo_victorias": 0,
-                "heptacracks": 0
+                "heptacracks": 1
             }
         }
     }
